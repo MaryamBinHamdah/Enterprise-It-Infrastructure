@@ -41,13 +41,11 @@ As a core member of this collaborative project, my responsibilities included:
 Here are some screenshots from our Cisco Packet Tracer simulation showcasing the network topology and successful configuration tests:
 
 **Packet Tracer Network Topology**
-![Network Topology](<img width="283" height="239" alt="image" src="https://github.com/user-attachments/assets/90f276e8-b188-45a3-b864-8f6b6d8593bc" />
-)
+![Network Topology](https://github.com/user-attachments/assets/90f276e8-b188-45a3-b864-8f6b6d8593bc )
 
 **Configuration & Ping Testing**
-![Testing Screenshot](<img width="975" height="932" alt="image" src="https://github.com/user-attachments/assets/0201a4ab-92ad-4e91-8386-33325017a824" />
-)
+![Testing Screenshot](https://github.com/user-attachments/assets/0201a4ab-92ad-4e91-8386-33325017a824 )
 
 **Mail Configurations**
-![Mail Configurations](<img width="975" height="935" alt="image" src="https://github.com/user-attachments/assets/9d74e2aa-4ba4-4bc5-b75b-8c3b5659b5b1" />
-)
+![Mail Configurations](https://github.com/user-attachments/assets/9d74e2aa-4ba4-4bc5-b75b-8c3b5659b5b1 )
+
